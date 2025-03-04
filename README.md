@@ -1,7 +1,7 @@
 # HRSSD
 Salient Object Detection in Hyperspectral Remote Sensing Images: The First Benchmark Dataset and Baseline
 
-Code and dataset will be publically avaliable soon.
+Code and dataset will be available after acceptance.
 
 # Compared Methods
 1. MJRBM: [Paper](https://ieeexplore.ieee.org/document/9511336), [Code](https://github.com/wchao1213/ORSI-SOD)  
