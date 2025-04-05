@@ -1,9 +1,28 @@
-# HRSSD
-Salient Object Detection in Hyperspectral Remote Sensing Images: The First Benchmark Dataset and Baseline
+# Salient Object Detection in Hyperspectral Remote Sensing Images: The First Benchmark Dataset and Baseline [TGRS 2025]
+by [Peifu Liu](https://scholar.google.com/citations?user=yrRXe-8AAAAJ&hl=zh-CN), [Huiyan Bai](https://scholar.google.com/citations?user=0hhBs5AAAAAJ&hl=zh-CN),  [Tingfa Xu](https://scholar.google.com/citations?user=vmDc8dwAAAAJ&hl=zh-CN), Jihui Wang, [Huan Chen](https://scholar.google.com/citations?user=1G6Mj24AAAAJ&hl=zh-CN), and [Jianan Li](https://scholar.google.com.hk/citations?user=sQ_nP0ZaMn0C&hl=zh-CN&oi=ao).
 
-Code and dataset will be available after acceptance.
+[![arXiv](https://img.shields.io/badge/📃-arXiv-ff69b4)](https://arxiv.org/abs/2504.02416)
 
-# Compared Methods
+
+## Requirements
+It is recommended to use Python 3.9. GDAL is available at [Google Drive](https://drive.google.com/file/d/1aMd_2w3khxUrur91F6RqFqeQD9RX1HXt/view?usp=drive_link). Feel free to use any PyTorch version.
+
+## Dataset
+The HRSSD is available at [Baidu Netdisk](https://pan.baidu.com/s/1xLHHTYerPYmKAFSYGC1TQg?pwd=jeng). Please place the dataset in the `dataset` folder. 
+Our HRSSD is organized as follows:
+```
+/HRSSD
+    /tr
+        /image
+        /label
+        /mask
+    /ts
+        /image
+        /label
+        /mask
+```
+
+## Compared Methods
 1. MJRBM: [Paper](https://ieeexplore.ieee.org/document/9511336), [Code](https://github.com/wchao1213/ORSI-SOD)  
 2. FSMINet: [Paper](https://ieeexplore.ieee.org/document/9739705), [Code](https://github.com/zxforchid/FSMINet)  
 3. CorrNet: [Paper](https://ieeexplore.ieee.org/document/9690514), [Code](https://github.com/MathLee/CorrNet)  
@@ -23,3 +42,7 @@ Code and dataset will be available after acceptance.
 17. MambaHSI: [Paper](https://ieeexplore.ieee.org/document/10604894), [Code](https://github.com/li-yapeng/MambaHSI)
 18. MambaLG: [Paper](https://ieeexplore.ieee.org/document/10812905), [Code](https://github.com/danfenghong/IEEE_TGRS_MambaLG)
 19. DSTC: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_21), [Code](https://github.com/laprf/DSTC)
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
