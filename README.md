@@ -1,4 +1,4 @@
-# SHyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline [TGRS 2025]
+# Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline [TGRS 2025]
 by [Peifu Liu](https://scholar.google.com/citations?user=yrRXe-8AAAAJ&hl=zh-CN), [Huiyan Bai](https://scholar.google.com/citations?user=0hhBs5AAAAAJ&hl=zh-CN),  [Tingfa Xu](https://scholar.google.com/citations?user=vmDc8dwAAAAJ&hl=zh-CN), Jihui Wang, [Huan Chen](https://scholar.google.com/citations?user=1G6Mj24AAAAJ&hl=zh-CN), and [Jianan Li](https://scholar.google.com.hk/citations?user=sQ_nP0ZaMn0C&hl=zh-CN&oi=ao).
 
 [![arXiv](https://img.shields.io/badge/📃-arXiv-ff69b4)](https://arxiv.org/abs/2504.02416)
