@@ -1,4 +1,4 @@
-# Salient Object Detection in Hyperspectral Remote Sensing Images: The First Benchmark Dataset and Baseline [TGRS 2025]
+# Hyperspectral Remote Sensing Images Salient Object Detection: The First Benchmark Dataset and Baseline [TGRS 2025]
 by [Peifu Liu](https://scholar.google.com/citations?user=yrRXe-8AAAAJ&hl=zh-CN), [Huiyan Bai](https://scholar.google.com/citations?user=0hhBs5AAAAAJ&hl=zh-CN),  [Tingfa Xu](https://scholar.google.com/citations?user=vmDc8dwAAAAJ&hl=zh-CN), Jihui Wang, [Huan Chen](https://scholar.google.com/citations?user=1G6Mj24AAAAJ&hl=zh-CN), and [Jianan Li](https://scholar.google.com.hk/citations?user=sQ_nP0ZaMn0C&hl=zh-CN&oi=ao).
 
 [![arXiv](https://img.shields.io/badge/📃-arXiv-ff69b4)](https://arxiv.org/abs/2504.02416)
@@ -43,6 +43,12 @@ Our HRSSD is organized as follows:
 18. MambaLG: [Paper](https://ieeexplore.ieee.org/document/10812905), [Code](https://github.com/danfenghong/IEEE_TGRS_MambaLG)
 19. DSTC: [Paper](https://link.springer.com/chapter/10.1007/978-3-031-72754-2_21), [Code](https://github.com/laprf/DSTC)
 
+## Acknowledgement
+Our dataset is built upon [WHU-OHS](https://github.com/zjjerica/WHU-OHS-Pytorch). Thanks for their great work!
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This repository contains two components with different licenses:
+
+Our **code** is released under the [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE). You may freely use, modify, and distribute the code.
+
+The **HRSSD dataset** is licensed under [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/). It is intended for academic research only. You must attribute the original source, and you are not allowed to modify or redistribute the dataset without permission.
