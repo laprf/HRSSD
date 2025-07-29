@@ -8,7 +8,7 @@ by [Peifu Liu](https://scholar.google.com/citations?user=yrRXe-8AAAAJ&hl=zh-CN),
 It is recommended to use Python 3.9. GDAL is available at [Google Drive](https://drive.google.com/file/d/1aMd_2w3khxUrur91F6RqFqeQD9RX1HXt/view?usp=drive_link). Feel free to use any PyTorch version.
 
 ## Dataset
-The HRSSD is available at [Baidu Netdisk](https://pan.baidu.com/s/1xLHHTYerPYmKAFSYGC1TQg?pwd=jeng). Please place the dataset in the `dataset` folder. 
+The HRSSD is available at [Baidu Netdisk](https://pan.baidu.com/s/1xLHHTYerPYmKAFSYGC1TQg?pwd=jeng) and [Google Drive](https://drive.google.com/file/d/1uhWlJqJ5vpG2XeZuJhsvdiAcV7lDrrwx/view?usp=sharing). Please place the dataset in the `dataset` folder. 
 Our HRSSD is organized as follows:
 ```
 /HRSSD
